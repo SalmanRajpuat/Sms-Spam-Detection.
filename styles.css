@@ -183,7 +183,7 @@ html {
 .btn-custom {
     display: inline-block;
     padding: 1rem 2rem;
-    background: linear-gradient(135deg, #ec4899, #3b82f6);
+    background: linear-gradient(135deg, #ec4899, #12bc50);
     color: #ffffff;
     text-decoration: none;
     border-radius: 50px;
@@ -221,7 +221,7 @@ html {
 .section-subtitle {
     text-align: center;
     font-size: 1.2rem;
-    color: #93c5fd;
+    color: #ffffff;
     margin-bottom: 4rem;
     max-width: 600px;
     margin-left: auto;
@@ -278,7 +278,7 @@ html {
 }
 
 .skill-tag {
-    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    background: linear-gradient(135deg, #2E8B57, #2E8B57);
     color: #ffffff;
     padding: 0.3rem 0.8rem;
     border-radius: 20px;
@@ -317,12 +317,12 @@ html {
 .project-card:hover {
     transform: translateY(-10px);
     box-shadow: 0 20px 40px rgba(59, 130, 246, 0.2);
-    border-color: #3b82f6;
+    border-color: #2E8B57;
 }
 
 .project-image {
     height: 200px;
-    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    background: linear-gradient(135deg, #2E8B57, #2E8B57);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -475,7 +475,7 @@ html {
 .social-icon {
     width: 45px;
     height: 45px;
-    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    background: linear-gradient(135deg, #2b235d, #1a12ba);
     border-radius: 50%;
     display: flex;
     align-items: center;
