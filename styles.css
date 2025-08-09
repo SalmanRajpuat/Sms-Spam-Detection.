@@ -53,7 +53,7 @@ html {
 
 /* Navigation */
 .navbar {
-    background: rgba(253, 245, 0, 0.95);
+    background: rgba(255, 255, 255, 0.95);
     -webkit-backdrop-filter: blur(15px);
     backdrop-filter: blur(15px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
